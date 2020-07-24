@@ -1,2 +1,2 @@
 # gettingStarted
-First Git Project
+Hello GIT World!!
